@@ -54,6 +54,7 @@ Website | Description
 
 Website | Description
 --------|------------
+[https://css.gg/app](https://css.gg/app) | Millions of customizable icons, with css sketch figma output !!
 [Feather Icons](https://feathericons.com/) | Simply beautiful open source icons
 [Streamline Icons](https://streamlineicons.com/) | Download 30,000 free PNG icons for website, web app, software, web design
 [Material Icons](https://fonts.google.com/icons) | Delightful, beautifully crafted symbols for common actions and items
