@@ -2,6 +2,15 @@
 
 A curated list of resources from design templates, stock photos, icons, colors, and much more
 
+
+
+### Designsystem
+
+Website | Description
+--------|------------
+
+[Design-Systems for Figma](https://www.designsystemsforfigma.com/) | 👍🏻
+
 ### General
 
 Website | Description
