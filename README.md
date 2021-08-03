@@ -62,6 +62,7 @@ Website | Description
 
 Website | Description
 --------|------------
+[https://icones.js.org/](https://icones.js.org/) | Sammlung von Icon-Packs als Übersicht
 [https://css.gg/app](https://css.gg/app) | Millions of customizable icons, with css sketch figma output !!
 [https://glyphs.fyi/](https://glyphs.fyi/) |The Mightiest Icons on the Web - Fully editable & truly open source design system
 [Feather Icons](https://feathericons.com/) | Simply beautiful open source icons
