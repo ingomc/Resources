@@ -5,11 +5,11 @@ A curated list of resources from design templates, stock photos, icons, colors, 
 
 ## Dev
 
-
-## Design
 Website | Description
 --------|------------
 [slowfil.es](https://slowfil.es/) | Demonstrate and observe slow-loading resources
+
+## Design
 
 ### Designsystem
 
