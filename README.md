@@ -1,8 +1,15 @@
-# Design Resources
+# Design & Dev Resources
 
 A curated list of resources from design templates, stock photos, icons, colors, and much more
 
 
+## Dev
+
+
+## Design
+Website | Description
+--------|------------
+[slowfil.es](https://slowfil.es/) | Demonstrate and observe slow-loading resources
 
 ### Designsystem
 
